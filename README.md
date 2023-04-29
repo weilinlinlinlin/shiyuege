@@ -16,13 +16,13 @@
 
 1 这是项目管理端登录界面
 
-![image-20230429195014197](.\images\image-20230429195014197.png)
+![image-20230429195014197](https://github.com/weilinlinlinlin/shiyuege/blob/master/images/image-20230429195014197.png)
 
 2 这是项目移动点餐界面
 
-![image-20230429195712202](.\images\image-20230429195712202.png)
+![image-20230429195712202](https://github.com/weilinlinlinlin/shiyuege/blob/master/images/image-20230429195712202.png)
 
-3 这是后台管理菜品的页面![image-20230429195543342](.\images\image-20230429195543342.png)
+3 这是后台管理菜品的页面![image-20230429195543342](https://github.com/weilinlinlinlin/shiyuege/blob/master/images/image-20230429195543342.png)
 
 ### 具体技术栈
 
@@ -54,7 +54,7 @@
 
 ### 项目整体流程
 
-![image-20230429213217080](.\images\image-20230429213217080.png)
+![image-20230429213217080](https://github.com/weilinlinlinlin/shiyuege/blob/master/images/image-20230429213217080.png)
 
 ### 优化空间
 
