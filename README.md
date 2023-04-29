@@ -16,13 +16,13 @@
 
 1 这是项目管理端登录界面
 
-![image-20230429195014197](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\image-20230429195014197.png)
+![image-20230429195014197](.\images\image-20230429195014197.png)
 
 2 这是项目移动点餐界面
 
-![image-20230429195712202](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\image-20230429195712202.png)
+![image-20230429195712202](.\images\image-20230429195712202.png)
 
-3 这是后台管理菜品的页面![image-20230429195543342](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\image-20230429195543342.png)
+3 这是后台管理菜品的页面![image-20230429195543342](.\images\image-20230429195543342.png)
 
 ### 具体技术栈
 
@@ -52,14 +52,14 @@
 
 8 验证码会通过日志形式打印在控制台，若需要真实短信服务，请购买阿里云短信服务，输入验证码进入下单界面完成下单。
 
-### 项目整理流程
+### 项目整体流程
 
-![image-20230429213217080](C:\Users\lin\AppData\Roaming\Typora\typora-user-images\image-20230429213217080.png)
+![image-20230429213217080](.\images\image-20230429213217080.png)
 
 ### 优化空间
 
-1 实现MySQL数据库的主从复制，完成读写分离；
+1 实现**MySQL**数据库的主从复制，完成读写分离；
 
-2 同时部署多台Tomcat服务器，加入Nginx完成负载均衡；
+2 同时部署多台**Tomcat**服务器，加入**Nginx**完成负载均衡；
 
-3 订单业务可以引入RabbitMQ中间件，完成解耦，实现异步调用。
+3 订单业务可以引入**RabbitMQ**中间件，完成解耦，实现异步调用。
